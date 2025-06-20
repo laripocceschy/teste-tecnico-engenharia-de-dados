@@ -17,7 +17,7 @@ Este projeto tem como objetivo demonstrar habilidades em ingestão de dados, mod
 
 ## ⚙️ Arquitetura da Solução
 
-```mermaid
+```
 graph TD
     API[API Maxinutri]
     API -->|Paginação + Requests| Ingestao[Ingestão de Dados (Python)]
